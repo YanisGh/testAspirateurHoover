@@ -18,4 +18,5 @@ Affichage des résultats :
 
 Une fois que toutes les informations ont été fournies, le programme exécutera les instructions et affichera la position finale de l'aspirateur.
 La position finale sera affichée sous la forme "Position finale : x= [x] y= [y] orientation= [orientation]".
+
 Veillez à respecter le format et les instructions lors de l'entrée des données pour obtenir les résultats attendus.
